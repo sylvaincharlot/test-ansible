@@ -1,2 +1,0 @@
-Ceci est un test de git
-Une seconde ligne pour un second test de git
